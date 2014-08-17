@@ -1,0 +1,3 @@
+schurig.pw=================
+
+personal website
