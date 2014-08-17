@@ -1,3 +1,4 @@
-schurig.pw=================
+schurig.pw
+=================
 
 personal website
